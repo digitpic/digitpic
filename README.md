@@ -23,24 +23,6 @@
         <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
         <img src="https://img.shields.io/badge/tibero6-3F48CC?style=for-the-badge&logo=tibero&logoColor=white">
     </div><br>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Amazon lightsail-232F3E?style=for-the-badge&logo=amazon lightsail&logoColor=white"> 
-    </div><br>
-    <!-- Frontend -->
-    <p><strong>Frontend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
-    </div><br>
     <!-- Programming Language -->
     <p><strong>Programming Language</strong></p>
     <div>
@@ -49,12 +31,30 @@
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
         <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
 </div><br>
+        <!-- Server -->
+    <p><strong>Server</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
+        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Amazon lightsail-232F3E?style=for-the-badge&logo=amazon lightsail&logoColor=white"> 
+    </div><br>
+            <!-- Frontend -->
+    <p><strong>Frontend</strong></p>
+    <div>
+        <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
+        <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
+        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
+    </div><br>
     <!-- Others -->
     <p><strong>Others</strong></p>
       <div>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
         <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-        <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"> 
+        <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
 </div><br>
 
 ## 🐕Blog
