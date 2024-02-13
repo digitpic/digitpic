@@ -6,8 +6,8 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitpic%2F&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
 
 [![digitpis's GitHub stats](https://github-readme-stats.vercel.app/api?username=digitpic&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/digitpic/github-readme-stats)
-
-## 🔨TechStack
+<br>
+## 🔨Tech Stack
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Backend -->
     <p><strong>Backend Framework</strong></p>
@@ -64,7 +64,7 @@
     </a>
   
  [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=digitpic)](https://velog.io/@digitpic)
-</div>
+</div><br>
 
 ## 📳Contact
 <div style="display:flex; flex-direction:row;">
