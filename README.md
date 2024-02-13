@@ -13,6 +13,7 @@
     <p><strong>Backend Framework</strong></p>
     <div>
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring boot&logoColor=white"> 
+        <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white"> 
     </div><br>
     <!-- Database -->
     <p><strong>Database Management System</strong></p>
@@ -27,7 +28,7 @@
     <div>
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
-        <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+        <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
         <img src="https://img.shields.io/badge/Amazon ec2-FF9900?style=for-the-badge&logo=amazon ec2&logoColor=white"> 
         <img src="https://img.shields.io/badge/Amazon lightsail-232F3E?style=for-the-badge&logo=amazon lightsail&logoColor=white"> 
     </div><br>
@@ -77,3 +78,9 @@
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
 </div>
+<br>
+
+## ⌨️Experience
+#### 2020-12-07 ~ 2022-09-06 : 공군 15특수임수비행단 정보보호병 전역
+#### 2023-09-01 ~ 2023-12-18 : 티맥스티베로 캠퍼스SW아카데미사업_TABA 4기 수료
+#### 2024-01-02 ~ 2024-02-26 : LG Aimers 4기 진행 중
