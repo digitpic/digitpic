@@ -62,20 +62,18 @@
         <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
     </a>
   
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=digitpic)](https://github.com/digitpic/velog-readme-stats)
+ [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=digitpic)](https://velog.io/@digitpic)
 </div>
 
 ## 📳Contact
 <div style="display:flex; flex-direction:row;">
-    <a href="mailto:jkw5033@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
     <a href="https://open.kakao.com/o/s26rBC9f">
         <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
     </a>
     <a href="https://www.instagram.com/_di.pic">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-
-
+        <a href="mailto:jkw5033@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+    </a>
 </div>
