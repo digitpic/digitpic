@@ -53,34 +53,4 @@
     <p><strong>Others</strong></p>
       <div>
         <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> 
-        <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> 
-        <img src="https://img.shields.io/badge/hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white">
-</div><br>
-
-## 🐕Blog
-<div style="display:flex; flex-direction:row;">
-    <a href="https://velog.io/@digitpic">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-  
- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=digitpic)](https://velog.io/@digitpic)
-</div><br>
-
-## 📳Contact
-<div style="display:flex; flex-direction:row;">
-    <a href="https://open.kakao.com/o/s26rBC9f">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logoColor=black&logo=KakaoTalk"> 
-    </a>
-    <a href="https://www.instagram.com/_di.pic">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
-    </a>
-        <a href="mailto:jkw5033@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-    </a>
-</div>
-<br>
-
-## ⌨️Experience
-#### 2020-12-07 ~ 2022-09-06 : 공군 15특수임수비행단 정보보호병 전역
-#### 2023-09-01 ~ 2023-12-18 : 티맥스티베로 캠퍼스SW아카데미사업_TABA 4기 수료
-#### 2024-01-02 ~ 2024-02-26 : LG Aimers 4기 진행 중
+        <i료
