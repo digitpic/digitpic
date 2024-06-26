@@ -5,7 +5,10 @@
 - [24-01-02 ~ 24-02-26] LG Aimers 4기 수료
 ---
 ## 📚 Project
-...
+- <a href="https://github.com/TABA4-9">캠핑용품 대여 서비스</a>
+- <a href="https://github.com/DKU-CapstoneDesign">외국인 유학생 커뮤니티 서비스</a>
+- <a href="https://github.com/DKU-CloudComputing">Imaginairy 웹 서비스</a>
+- <a href="https://github.com/Alley-Oops-App">농구 커뮤니티 플랫폼</a> (진행 중)
 
 ---
 ## 🔨 Tech Stack
