@@ -96,7 +96,7 @@
       <td>
         <div style="display:flex; flex-direction:row; align-items:flex-start;">
           <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" style="border-radius: 8px;">
-          <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=cplusplus&logoColor=white" style="border-radius: 8px;">
+          <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" style="border-radius: 8px;">
           <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" style="border-radius: 8px;">
           <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="border-radius: 8px;">
         </div>
@@ -164,7 +164,7 @@
       <td>
         <div style="display:flex; flex-direction:row; align-items:flex-start;">
           <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="border-radius: 8px;">
-          <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" style="border-radius: 8px;">
+          <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" style="border-radius: 8px;">
         </div>
       </td>
     </tr>
