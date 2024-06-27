@@ -204,9 +204,26 @@
     <tr>
       <th>Category</th>
       <th>Details</th>
+      <th>Views</th>
     </tr>
   </thead>
   <tbody>
+    <tr>
+      <td>🐙 Github</td>
+      <td>
+        <div style="display:flex; flex-direction:row; align-items:flex-start;">
+          <a href="https://github.com/digitpic">
+            <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" style="border-radius: 8px;">
+          </a>
+        </div>
+      </td>
+      <td>
+       <div style="display:flex; flex-direction:row; align-items:flex-start;">
+          <a href="https://hits.seeyoufarm.com">
+            <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitpic%2F&count_bg=%2379C83D&title_bg=%23181717&icon=cliqz.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false" style="border-radius: 8px;">
+          </a>
+        </div>
+    </tr>
     <tr>
       <td>🐕 Blog</td>
       <td>
@@ -215,6 +232,9 @@
             <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white" style="border-radius: 8px;">
           </a>
         </div>
+      </td>
+      <td>
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://velog.io/@digitpic&count_bg=%2379C83D&title_bg=%2320c997&icon=cliqz.svg&icon_color=white&title=Velog&edge_flat=false">
       </td>
     </tr>
     <tr>
@@ -232,11 +252,10 @@
           </a>
         </div>
       </td>
+      <td></td>
     </tr>
   </tbody>
 </table>
 
 ---
 ![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitpic%2F&count_bg=%2379C83D&title_bg=%23555555&icon=cliqz.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)
