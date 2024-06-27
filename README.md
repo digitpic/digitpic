@@ -10,19 +10,24 @@
   </thead>
   <tbody>
     <tr>
+      <td>20-03-02 ~ </td>
+      <td>단국대학교 소프트웨어학과</td>
+      <td>재학 중</td>
+    </tr>
+    <tr>
       <td>20-12-07 ~ 22-09-06</td>
       <td>공군 15특수임수비행단 정보보호병 821기</td>
       <td>병장 만기전역</td>
     </tr>
     <tr>
       <td>23-09-01 ~ 23-12-18</td>
-      <td>티맥스티베로 캠퍼스SW아카데미사업_TABA 4기</td>
+      <td>티맥스티베로 캠퍼스SW아카데미사업(TABA) 4기</td>
       <td>우수교육생 선발</td>
     </tr>
     <tr>
       <td>24-01-02 ~ 24-02-26</td>
       <td>LG Aimers 4기</td>
-      <td></td>
+      <td>수료</td>
     </tr>
   </tbody>
 </table>
@@ -51,13 +56,13 @@
       <td>완료</td>
     </tr>
     <tr>
-      <td>24-03 ~ ??-??</td>
+      <td>24-03 ~ </td>
       <td><a href="https://github.com/DKU-CapstoneDesign">외국인 유학생 커뮤니티 서비스</a></td>
       <td>5인</td>
       <td>진행 중</td>
     </tr>
     <tr>
-      <td>24-06 ~ ??-??</td>
+      <td>24-06 ~ </td>
       <td><a href="https://github.com/Alley-Oops-App">농구 커뮤니티 플랫폼</a></td>
       <td>5인</td>
       <td>진행 중</td>
@@ -98,7 +103,7 @@
       </td>
     </tr>
     <tr>
-      <th>Data Analysis/ML</th>
+      <th>Data Analysis / ML</th>
       <td>
         <div style="display:flex; flex-direction:row; align-items:flex-start;">
           <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" style="border-radius: 8px;">
@@ -139,11 +144,12 @@
           <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" style="border-radius: 8px;">
           <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="border-radius: 8px;">
           <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" style="border-radius: 8px;">
+          <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" style="border-radius: 8px;">
         </div>
       </td>
     </tr>
     <tr>
-      <th>Cloud Infrastructure</th>
+      <th>Public Cloud</th>
       <td>
         <div style="display:flex; flex-direction:row; align-items:flex-start;">
           <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon web services&logoColor=white" style="border-radius: 8px;">
@@ -168,7 +174,15 @@
         <div style="display:flex; flex-direction:row; align-items:flex-start;">
           <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="border-radius: 8px;"> 
           <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" style="border-radius: 8px;"> 
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <th>CI / CD</th>
+      <td>
+        <div style="display:flex; flex-direction:row; align-items:flex-start;">
           <img src="https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" style="border-radius: 8px;"> 
+          <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" style="border-radius: 8px;">
         </div>
       </td>
     </tr>
@@ -178,33 +192,49 @@
         <div style="display:flex; flex-direction:row; align-items:flex-start;">
           <img src="https://img.shields.io/badge/Yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515" style="border-radius: 8px;">
           <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="border-radius: 8px;">
-          <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" style="border-radius: 8px;">
-          <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" style="border-radius: 8px;">
         </div>
       </td>
     </tr>
   </tbody>
 </table>
 
-## 🐕 Blog
-<div style="display:flex; flex-direction:row; align-items:flex-start;">
-    <a href="https://velog.io/@digitpic">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white" style="border-radius: 8px;"> 
-    </a>
-</div>
-
-## 📳 Contact
-<div style="display:flex; flex-direction:row; align-items:flex-start;">
-    <a href="https://open.kakao.com/o/s26rBC9f">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk" style="border-radius: 8px;"> 
-    </a>
-    <a href="https://www.instagram.com/_di.pic">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" style="border-radius: 8px;">
-    </a>
-        <a href="mailto:jkw5033@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" style="border-radius: 8px;">
-    </a>
-</div>
+---
+<table>
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Details</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🐕 Blog</td>
+      <td>
+        <div style="display:flex; flex-direction:row; align-items:flex-start;">
+          <a href="https://velog.io/@digitpic">
+            <img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white" style="border-radius: 8px;">
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>📳 Contact</td>
+      <td>
+        <div style="display:flex; flex-direction:row; align-items:flex-start;">
+          <a href="https://open.kakao.com/o/s26rBC9f">
+            <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk" style="border-radius: 8px;">
+          </a>
+          <a href="https://www.instagram.com/_di.pic">
+            <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" style="border-radius: 8px;">
+          </a>
+          <a href="mailto:jkw5033@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" style="border-radius: 8px;">
+          </a>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 ![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
