@@ -1,19 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶🐾🦴&fontAlign=70)
 ## ⌨️ Experience
-|기간|경험|비고|
+|Period|Name|Note|
 |:-:|:-:|:-:|
 |20-03-02 ~ 현재|단국대학교 소프트웨어학과|재학 중|
 |20-12-07 ~ 22-09-06|공군 15특수임수비행단 정보보호병 821기|병장 만기전역|
 |23-09-01 ~ 23-12-18|티맥스티베로 캠퍼스SW아카데미사업(TABA) 4기|우수교육생 선발|
 |24-01-02 ~ 24-02-26|LG Aimers 4기|수료|
 
-## 📚 Project
-|기간|이름|인원|역할|상태|
-|:-:|:-:|:-:|:-:|:-:|
-|23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|5인|BE|완료|
-|24-03 ~ 24-06|[Imaginairy 웹 서비스](https://github.com/DKU-CloudComputing)|1인|FE, BE, AI, DevOps|완료|
-|24-03 ~ 현재|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|5인|BE|진행 중|
-|24-06 ~ 현재|[농구 커뮤니티 플랫폼](https://github.com/Alley-Oops-App)|5인|BE|진행 중|
+## 📚 Projects
+|Period|Name|Role|Status|
+|:-:|:-:|:-:|:-:|
+|23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
+|24-03 ~ 24-06|[Imaginairy 웹 서비스](https://github.com/DKU-CloudComputing)|FE, BE, AI, DevOps|완료|
+|24-03 ~ 현재|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|진행 중|
+|24-06 ~ 현재|[농구 커뮤니티 플랫폼](https://github.com/Alley-Oops-App)|BE|진행 중|
 
 ## 🔨 Tech Stack
 |Category|Tools|
