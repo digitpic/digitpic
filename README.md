@@ -39,6 +39,7 @@
       <th>기간</th>
       <th>이름</th>
       <th>인원</th>
+      <th>역할</th>
       <th>상태</th>
     </tr>
   </thead>
@@ -47,24 +48,28 @@
       <td>23-09 ~ 23-12</td>
       <td><a href="https://github.com/TABA4-9">캠핑용품 대여 서비스</a></td>
       <td>5인</td>
+      <td>BE</td>
       <td>완료</td>
     </tr>
     <tr>
       <td>24-03 ~ 24-06</td>
       <td><a href="https://github.com/DKU-CloudComputing">Imaginairy 웹 서비스</a></td>
       <td>1인</td>
+      <td>FE, BE, AI, DevOps</td>
       <td>완료</td>
     </tr>
     <tr>
       <td>24-03 ~ 현재</td>
       <td><a href="https://github.com/DKU-CapstoneDesign">외국인 유학생 커뮤니티 서비스</a></td>
       <td>5인</td>
+      <td>BE</td>
       <td>진행 중</td>
     </tr>
     <tr>
       <td>24-06 ~ 현재</td>
       <td><a href="https://github.com/Alley-Oops-App">농구 커뮤니티 플랫폼</a></td>
       <td>5인</td>
+      <td>BE</td>
       <td>진행 중</td>
     </tr>
   </tbody>
