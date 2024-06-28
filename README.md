@@ -10,7 +10,7 @@
   </thead>
   <tbody>
     <tr>
-      <td>20-03-02 ~ </td>
+      <td>20-03-02 ~ 현재</td>
       <td>단국대학교 소프트웨어학과</td>
       <td>재학 중</td>
     </tr>
@@ -56,13 +56,13 @@
       <td>완료</td>
     </tr>
     <tr>
-      <td>24-03 ~ </td>
+      <td>24-03 ~ 현재</td>
       <td><a href="https://github.com/DKU-CapstoneDesign">외국인 유학생 커뮤니티 서비스</a></td>
       <td>5인</td>
       <td>진행 중</td>
     </tr>
     <tr>
-      <td>24-06 ~ </td>
+      <td>24-06 ~ 현재</td>
       <td><a href="https://github.com/Alley-Oops-App">농구 커뮤니티 플랫폼</a></td>
       <td>5인</td>
       <td>진행 중</td>
