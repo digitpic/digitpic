@@ -1,9 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶🐾🦴&fontAlign=70)
 
-
-<div align="center">
+<div align="left">
   
-## ⌨️ Experience  
+## ⌨️ Experiences
+
+</div>
+
+  
+<div align="center">
+
 | Period | Name | Note |
 |:-:|:-:|:-:|
 | 20-03-02 ~ 현재 | 단국대학교 소프트웨어학과 | 재학 중 |
@@ -14,9 +19,14 @@
 
 </div>
 
-<div align="center">
+<div align="right">
   
 ## 📚 Projects
+
+</div>
+
+<div align="center">
+  
 |Period|Name|Role|Status|
 |:-:|:-:|:-:|:-:|
 |23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
@@ -26,9 +36,14 @@
 
 </div>
 
+
+<div align="left">
+
+## 🔨 Tech Stack
+</div>
+
 <div align="center">
   
-## 🔨 Tech Stack
 |Category|Tools|
 |:-:|:-:|
 |Front-End|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" style="border-radius: 8px;">|
@@ -44,8 +59,14 @@
 |Others|<img src="https://img.shields.io/badge/Yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="border-radius: 8px;">|
 
 </div>
+
+
+<div align="right">
   
----
+## 🗂️ Profile
+
+</div>
+
 
 <div align="center">
   
