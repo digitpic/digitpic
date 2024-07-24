@@ -1,20 +1,33 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶🐾🦴&fontAlign=70)
-## ⌨️ Experience
-|Period|Name|Note|
-|:-:|:-:|:-:|
-|20-03-02 ~ 현재|단국대학교 소프트웨어학과|재학 중|
-|20-12-07 ~ 22-09-06|공군 15특수임수비행단 정보보호병 821기|병장 만기전역|
-|23-09-01 ~ 23-12-18|티맥스티베로 캠퍼스SW아카데미사업(TABA) 4기|우수교육생 선발|
-|24-01-02 ~ 24-02-26|LG Aimers 4기|수료|
 
+
+<div align="center">
+  
+## ⌨️ Experience  
+| Period | Name | Note |
+|:-:|:-:|:-:|
+| 20-03-02 ~ 현재 | 단국대학교 소프트웨어학과 | 재학 중 |
+| 20-12-07 ~ 22-09-06 | 공군 정보보호병 821기 | 병장 만기전역 |
+| 23-09-01 ~ 23-12-18 | 티맥스티베로 캠퍼스SW아카데미사업(TABA) 4기 | 우수교육생 선발 |
+| 24-01-02 ~ 24-02-26 | LG AImers 4기 | 수료 |
+| 24-07-23 ~ 현재 | 9oormthonUNIV 3기 | 진행 중 |
+
+</div>
+
+<div align="center">
+  
 ## 📚 Projects
 |Period|Name|Role|Status|
 |:-:|:-:|:-:|:-:|
-|23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|FE, BE, Crawling|완료|
-|24-03 ~ 24-06|[Imaginairy 웹 서비스](https://github.com/DKU-CloudComputing)|FE, BE, AI, DevOps|완료|
+|23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
+|24-03 ~ 24-06|[Imaginairy 웹 서비스](https://github.com/DKU-CloudComputing)|FE, BE|완료|
 |24-03 ~ 현재|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|진행 중|
-|24-06 ~ 현재|[농구 커뮤니티 플랫폼](https://github.com/Alley-Oops-App)|BE, DevOps|진행 중|
+|24-06 ~ 현재|[농구 커뮤니티 플랫폼](https://github.com/Alley-Oops-App)|BE|진행 중|
 
+</div>
+
+<div align="center">
+  
 ## 🔨 Tech Stack
 |Category|Tools|
 |:-:|:-:|
@@ -29,12 +42,20 @@
 |Git|<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" style="border-radius: 8px;">|
 |CI / CD|<img src="https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" style="border-radius: 8px;">|
 |Others|<img src="https://img.shields.io/badge/Yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="border-radius: 8px;">|
+
+</div>
+  
 ---
+
+<div align="center">
+  
 |Category| Details | Views |
 |:-:|:-:|:-:|
 |🐙 Github|[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/digitpic)|[![Github Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitpic%2F&count_bg=%2379C83D&title_bg=%23181717&icon=cliqz.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)|
 |🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic)|[![Velog Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://velog.io/@digitpic&count_bg=%2379C83D&title_bg=%2320c997&icon=cliqz.svg&icon_color=white&title=Velog&edge_flat=false)](https://hits.seeyoufarm.com)|
 |📳 Contact|[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk)](https://open.kakao.com/o/s26rBC9f) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_di.pic) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jkw5033@gmail.com)| |
+
+</div>
 
 ---
 ![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
