@@ -4,7 +4,9 @@
 
 <div align="center">
 
-![toothless](https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec)
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="200" height="200">
 
 </div>
 
