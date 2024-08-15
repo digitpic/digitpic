@@ -4,9 +4,9 @@
 
 <div align="center">
   
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="120" height="120">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="200" height="200">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="160" height="160">
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="60" height="60">
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="140" height="140">
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="100" height="100">
 
 </div>
 
