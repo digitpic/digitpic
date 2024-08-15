@@ -1,3 +1,6 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶🐾🦴&fontAlign=70)
+
+![sep](https://github.com/user-attachments/assets/8f984125-7721-4991-bf51-b7de17f8f14c)
 
 <div align="center">
 
@@ -5,7 +8,7 @@
 
 </div>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶🐾🦴&fontAlign=70)
+![sep](https://github.com/user-attachments/assets/8f984125-7721-4991-bf51-b7de17f8f14c)
 
 <div align="left">
   
