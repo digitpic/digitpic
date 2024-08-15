@@ -3,11 +3,10 @@
 ![sep](https://github.com/user-attachments/assets/8f984125-7721-4991-bf51-b7de17f8f14c)
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="100" height="100">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="160" height="160">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="200" height="200">
+  
 <img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="120" height="120">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="140" height="140">
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="200" height="200">
+<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="160" height="160">
 
 </div>
 
