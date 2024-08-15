@@ -81,9 +81,40 @@
   
 |Category| Details | Views |
 |:-:|:-:|:-:|
-|🐙 Github|[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/digitpic)|[![Github Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdigitpic%2F&count_bg=%2379C83D&title_bg=%23181717&icon=cliqz.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://hits.seeyoufarm.com)|
+|🐙 Github|[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/digitpic)|![hits](https://profile-counter.glitch.me/%7Bdigitpic%7D/count.svg)|
 |🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic)|[![Velog Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://velog.io/@digitpic&count_bg=%2379C83D&title_bg=%2320c997&icon=cliqz.svg&icon_color=white&title=Velog&edge_flat=false)](https://hits.seeyoufarm.com)|
-|📳 Contact|[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logoColor=black&logo=KakaoTalk)](https://open.kakao.com/o/s26rBC9f) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/_di.pic) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:jkw5033@gmail.com)| |
+
+
+</div>
+
+
+<div align="left">
+
+## 📳 Contact
+
+</div>
+
+<div align="center">
+  
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.kakao.com/o/s26rBC9f">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=black" alt="KakaoTalk"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:jkw5033@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/_di.pic">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
