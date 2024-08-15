@@ -93,6 +93,30 @@
 
 </div>
 
+<div align="center">
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.kakao.com/o/s26rBC9f">
+        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=black" alt="KakaoTalk"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:jkw5033@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/_di.pic">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
 ![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
