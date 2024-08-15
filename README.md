@@ -96,4 +96,3 @@
 ---
 
 ![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
-![minecraft-steve](https://github.com/user-attachments/assets/e0cdaf41-732e-44b1-8fbe-1bf31fe9b50b)
