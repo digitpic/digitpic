@@ -82,8 +82,7 @@
 |Category| Details | Views |
 |:-:|:-:|:-:|
 |🐙 Github|[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/digitpic)|![hits](https://profile-counter.glitch.me/%7Bdigitpic%7D/count.svg)|
-|🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic)|![minecraft-ground](https://github.com/user-attachments/assets/d19489e0-f148-4fba-b663-29457b71c193) ![steve](https://github.com/user-attachments/assets/e0cdaf41-732e-44b1-8fbe-1bf31fe9b50b)|
-
+|🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic)|![ground](https://github.com/user-attachments/assets/351afe43-e796-4fd0-97c9-9551eba29789) ![steve](https://github.com/user-attachments/assets/082a7af7-1c75-4040-9325-144db7616c9e)|
 
 </div>
 
