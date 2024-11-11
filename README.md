@@ -1,17 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶🐾🦴&fontAlign=70)
 
-![sep](https://github.com/user-attachments/assets/8f984125-7721-4991-bf51-b7de17f8f14c)
-
-<div align="center">
-  
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="60" height="60">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="140" height="140">
-<img src="https://github.com/user-attachments/assets/49da737c-9b98-455f-a286-f12c9a957eec" alt="toothless" width="100" height="100">
-
-</div>
-
-![sep](https://github.com/user-attachments/assets/8f984125-7721-4991-bf51-b7de17f8f14c)
-
 <div align="left">
   
 ## ⌨️ Experiences
@@ -42,11 +30,10 @@
 |:-:|:-:|:-:|:-:|
 |23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
 |24-03 ~ 24-06|[Imaginairy 웹 서비스](https://github.com/DKU-CloudComputing)|FE, BE|완료|
-|24-03 ~ 현재|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|진행 중|
+|24-03 ~ 현재|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|완료|
 |24-06 ~ 현재|[농구 커뮤니티 플랫폼](https://github.com/Alley-Oops-App)|BE|진행 중|
 
 </div>
-
 
 <div align="left">
 
@@ -84,7 +71,7 @@
 |Category| Details | Views |
 |:-:|:-:|:-:|
 |🐙 Github|[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/digitpic)|![hits](https://profile-counter.glitch.me/%7Bdigitpic%7D/count.svg)|
-|🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic)|![ground](https://github.com/user-attachments/assets/351afe43-e796-4fd0-97c9-9551eba29789) ![steve](https://github.com/user-attachments/assets/082a7af7-1c75-4040-9325-144db7616c9e)|
+|🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic)| |
 
 </div>
 
