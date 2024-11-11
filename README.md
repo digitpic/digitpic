@@ -31,7 +31,7 @@
 |23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
 |24-03 ~ 24-06|[Imaginairy 웹 서비스](https://github.com/DKU-CloudComputing)|FE, BE|완료|
 |24-03 ~ 현재|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|완료|
-|24-06 ~ 현재|[농구 커뮤니티 플랫폼](https://github.com/Alley-Oops-App)|BE|진행 중|
+|24-06 ~ 현재|[농구 커뮤니티 플랫폼](https://github.com/Alley-Oops-App)|BE|중지|
 
 </div>
 
