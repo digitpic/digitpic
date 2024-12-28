@@ -15,6 +15,7 @@
 | 20-12-07 ~ 22-09-06 | 공군 정보보호병 821기 | 병장 만기전역 |
 | 23-09-01 ~ 23-12-18 | 티맥스티베로 캠퍼스SW아카데미사업(TABA) 4기 | 우수교육생 선발 |
 | 24-01-02 ~ 24-02-26 | LG AImers 4기 | 수료 |
+| 24-10-18 ~ 현재 | 단국대학교 SWExpert | 진행 중 |
 
 </div>
 
@@ -72,7 +73,7 @@
 |Category| Details | Views |
 |:-:|:-:|:-:|
 |🐙 Github|[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/digitpic)|![hits](https://profile-counter.glitch.me/%7Bdigitpic%7D/count.svg)|
-|🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic)| |
+|🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic/)|[![Tistory](https://img.shields.io/badge/Tistory-ff5a4a?style=flat&logo=Tistory&logoColor=white)](https://digitpic.tistory.com/)|
 
 </div>
 
