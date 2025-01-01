@@ -31,7 +31,6 @@
 |Period|Name|Role|Status|
 |:-:|:-:|:-:|:-:|
 |23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
-|24-03 ~ 24-06|[Imaginairy 웹 서비스](https://github.com/DKU-CloudComputing)|FE, BE|완료|
 |24-03 ~ 24-11|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|완료|
 |24-11 ~ 현재|[SOLID KPI](https://github.com/DKU-SWExpert)|FE, BE|진행|
 
