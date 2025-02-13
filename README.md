@@ -67,9 +67,7 @@
 
 <div align="center">
   
-[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-%23222222?style=for-the-badge&logo=KakaoTalk&logoColor=FFCD00)](https://open.kakao.com/o/s26rBC9f)
 [![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23222222?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/_di.pic)
 </div>
 
 <br>
