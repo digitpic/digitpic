@@ -49,17 +49,14 @@
 
 <div align="right">
   
-## 🗂️ Profile
+## 📝 Blog
 
 </div>
 
 <div align="center">
   
-|Category| Details | Views |
-|:-:|:-:|:-:|
-|🐙 Github|[![Github](https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white)](https://github.com/digitpic)|![hits](https://profile-counter.glitch.me/%7Bdigitpic%7D/count.svg)|
-|🐕 Blog|[![Velog](https://img.shields.io/badge/Velog-20c997?style=flat&logo=Vimeo&logoColor=white)](https://velog.io/@digitpic/)|[![Tistory](https://img.shields.io/badge/Tistory-ff5a4a?style=flat&logo=Tistory&logoColor=white)](https://digitpic.tistory.com/)|
-
+[![Velog](https://img.shields.io/badge/Velog-%23222222?style=for-the-badge&logo=Vimeo&logoColor=20c997)](https://velog.io/@digitpic)
+[![Tistory](https://img.shields.io/badge/Tistory-%23222222?style=for-the-badge&logo=Tistory&logoColor=ff5a4a)](https://digitpic.tistory.com/)
 </div>
 
 <div align="left">
@@ -69,25 +66,10 @@
 </div>
 
 <div align="center">
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://open.kakao.com/o/s26rBC9f">
-        <img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=flat&logo=KakaoTalk&logoColor=black" alt="KakaoTalk"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:jkw5033@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" alt="Gmail"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/_di.pic">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white" alt="Instagram"/>
-      </a>
-    </td>
-  </tr>
-</table>
+  
+[![KakaoTalk](https://img.shields.io/badge/KakaoTalk-%23222222?style=for-the-badge&logo=KakaoTalk&logoColor=FFCD00)](https://open.kakao.com/o/s26rBC9f)
+[![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23222222?style=for-the-badge&logo=Instagram&logoColor=E4405F)](https://www.instagram.com/_di.pic)
 </div>
 
 <br>
