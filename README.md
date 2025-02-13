@@ -6,7 +6,6 @@
 
 </div>
 
-  
 <div align="center">
 
 | Period | Name | Note |
@@ -42,30 +41,17 @@
 </div>
 
 <div align="center">
-  
-|Category|Tools|
-|:-:|:-:|
-|Front-End|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" style="border-radius: 8px;">|
-|Programming Languages|<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" style="border-radius: 8px;">|
-|Data Analysis / ML|<img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" style="border-radius: 8px;">|
-|Database|<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Tibero6-3F48CC?style=flat&logo=tibero&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" style="border-radius: 8px;">|
-|OS|<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/CentOS-002260?style=flat&logo=centos&logoColor=F0F0F0" style="border-radius: 8px;">|
-|Back-End|<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=spring boot&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=flat&logo=Thymeleaf&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=flat&logo=Gradle&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white" style="border-radius: 8px;">|
-|Public Cloud|<img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon web services&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat&logo=amazon ec2&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat&logo=amazon rds&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/AWS S3-569A31?style=flat&logo=amazon rds&logoColor=white" style="border-radius: 8px;">|
-|Containerization|<img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white" style="border-radius: 8px;">|
-|Git|<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" style="border-radius: 8px;">|
-|CI / CD|<img src="https://img.shields.io/badge/Github%20Actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white" style="border-radius: 8px;">|
-|Others|<img src="https://img.shields.io/badge/Yaml-%23ffffff.svg?style=flat&logo=yaml&logoColor=151515" style="border-radius: 8px;"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" style="border-radius: 8px;">|
-
+  <img src="https://img.shields.io/badge/Spring Boot-%23222222?style=for-the-badge&logo=springboot&logoColor=6DB33F">
+  <img src="https://img.shields.io/badge/Java-%23222222?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+  <img src="https://img.shields.io/badge/Kotlin-%23222222?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+  <img src="https://img.shields.io/badge/Kubernetes-%23222222?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
 </div>
-
 
 <div align="right">
   
 ## 🗂️ Profile
 
 </div>
-
 
 <div align="center">
   
@@ -83,7 +69,6 @@
 </div>
 
 <div align="center">
-
 <table align="center">
   <tr>
     <td align="center">
@@ -103,9 +88,8 @@
     </td>
   </tr>
 </table>
-
 </div>
 
----
+<br>
 
 ![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
