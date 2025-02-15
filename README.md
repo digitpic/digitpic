@@ -10,8 +10,8 @@
   
 |Period|Name|Role|Status|
 |:-:|:-:|:-:|:-:|
-|23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
-|24-03 ~ 24-11|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|완료|
+|23-09 ~ 23-12|[CampShare](https://github.com/TABA4-9)|BE|완료|
+|24-03 ~ 24-11|[Koreigner](https://github.com/DKU-CapstoneDesign)|BE|완료|
 |25-01 ~ 현재|[만다몽](https://github.com/mandamong)|BE|진행|
 
 </div>
