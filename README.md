@@ -16,8 +16,42 @@
 
 </div>
 
+<div align="right">
+
+## 🔨 Tech Stack
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Spring Boot-%23222222?style=for-the-badge&logo=springboot&logoColor=6DB33F">
+  <img src="https://img.shields.io/badge/Java-%23222222?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
+  <img src="https://img.shields.io/badge/Kotlin-%23222222?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+  <img src="https://img.shields.io/badge/Kubernetes-%23222222?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
+</div>
+
+<div align="left">
+  
+## 📝 Blog
+
+</div>
+
+<div align="center">
+  
+[![Velog](https://img.shields.io/badge/Velog-%23222222?style=for-the-badge&logo=Vimeo&logoColor=20c997)](https://velog.io/@digitpic)
+[![Tistory](https://img.shields.io/badge/Tistory-%23222222?style=for-the-badge&logo=Tistory&logoColor=ff5a4a)](https://digitpic.tistory.com/)
+</div>
 
 <div align="right">
+
+## 📳 Contact
+
+</div>
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
+</div>
+
+<div align="left">
   
 ## ⌨️ Experiences
 
@@ -34,41 +68,6 @@
 | 24-10-18 ~ 현재 | 단국대학교 SWExpert | 진행 중 |
 | 24-12-28 ~ 현재 | Server Sprout 1기 | 진행 중 |
 
-</div>
-
-<div align="left">
-
-## 🔨 Tech Stack
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Spring Boot-%23222222?style=for-the-badge&logo=springboot&logoColor=6DB33F">
-  <img src="https://img.shields.io/badge/Java-%23222222?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
-  <img src="https://img.shields.io/badge/Kotlin-%23222222?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
-  <img src="https://img.shields.io/badge/Kubernetes-%23222222?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
-</div>
-
-<div align="right">
-  
-## 📝 Blog
-
-</div>
-
-<div align="center">
-  
-[![Velog](https://img.shields.io/badge/Velog-%23222222?style=for-the-badge&logo=Vimeo&logoColor=20c997)](https://velog.io/@digitpic)
-[![Tistory](https://img.shields.io/badge/Tistory-%23222222?style=for-the-badge&logo=Tistory&logoColor=ff5a4a)](https://digitpic.tistory.com/)
-</div>
-
-<div align="left">
-
-## 📳 Contact
-
-</div>
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
 </div>
 
 <br>
