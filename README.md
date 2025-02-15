@@ -2,6 +2,23 @@
 
 <div align="left">
   
+## 📚 Projects
+
+</div>
+
+<div align="center">
+  
+|Period|Name|Role|Status|
+|:-:|:-:|:-:|:-:|
+|23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
+|24-03 ~ 24-11|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|완료|
+|25-01 ~ 현재|[만다몽](https://github.com/mandamong)|BE|진행|
+
+</div>
+
+
+<div align="right">
+  
 ## ⌨️ Experiences
 
 </div>
@@ -16,22 +33,6 @@
 | 24-01-02 ~ 24-02-26 | LG AImers 4기 | 수료 |
 | 24-10-18 ~ 현재 | 단국대학교 SWExpert | 진행 중 |
 | 24-12-28 ~ 현재 | Server Sprout 1기 | 진행 중 |
-
-</div>
-
-<div align="right">
-  
-## 📚 Projects
-
-</div>
-
-<div align="center">
-  
-|Period|Name|Role|Status|
-|:-:|:-:|:-:|:-:|
-|23-09 ~ 23-12|[캠핑용품 대여 서비스](https://github.com/TABA4-9)|BE|완료|
-|24-03 ~ 24-11|[외국인 유학생 커뮤니티 서비스](https://github.com/DKU-CapstoneDesign)|BE|완료|
-|24-11 ~ 현재|[SOLID KPI](https://github.com/DKU-SWExpert)|FE, BE|진행|
 
 </div>
 
