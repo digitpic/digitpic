@@ -30,18 +30,6 @@
 </div>
 
 <div align="left">
-  
-## 📝 Blog
-
-</div>
-
-<div align="center">
-  
-[![Velog](https://img.shields.io/badge/Velog-%23222222?style=for-the-badge&logo=Vimeo&logoColor=20c997)](https://velog.io/@digitpic)
-[![Tistory](https://img.shields.io/badge/Tistory-%23222222?style=for-the-badge&logo=Tistory&logoColor=ff5a4a)](https://digitpic.tistory.com/)
-</div>
-
-<div align="right">
 
 ## 📳 Contact
 
@@ -52,7 +40,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
 </div>
 
-<div align="left">
+<div align="right">
   
 ## ⌨️ Experiences
 
