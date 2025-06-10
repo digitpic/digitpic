@@ -23,9 +23,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring Boot-%23222222?style=for-the-badge&logo=springboot&logoColor=6DB33F">
   <img src="https://img.shields.io/badge/Java-%23222222?style=for-the-badge&logo=openjdk&logoColor=ED8B00">
   <img src="https://img.shields.io/badge/Kotlin-%23222222?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
+  <img src="https://img.shields.io/badge/Spring Boot-%23222222?style=for-the-badge&logo=springboot&logoColor=6DB33F">
   <img src="https://img.shields.io/badge/Kubernetes-%23222222?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
 </div>
 
@@ -54,11 +54,11 @@
 | 20-12-07 ~ 22-09-06 | 공군 정보보호병 821기 | 병장 만기전역 |
 | 23-09-01 ~ 23-12-18 | 티맥스티베로 캠퍼스SW아카데미사업(TABA) 4기 | 우수교육생 선발 |
 | 24-01-02 ~ 24-02-26 | LG AImers 4기 | 수료 |
-| 24-10-18 ~ 현재 | 단국대학교 SWExpert | 진행 중 |
-| 24-12-28 ~ 현재 | Server Sprout 1기 | 진행 중 |
 
 </div>
 
+<!--
 <br>
 
 ![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
