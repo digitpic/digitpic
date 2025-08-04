@@ -30,17 +30,6 @@
 </div>
 
 <div align="left">
-
-## 📳 Contact
-
-</div>
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
-</div>
-
-<div align="right">
   
 ## ⌨️ Experiences
 
@@ -50,15 +39,20 @@
 
 | Period | Name | Note |
 |:-:|:-:|:-:|
-| 20-03-02 ~ 현재 | 단국대학교 소프트웨어학과 | 재학 중 |
+| 20-03-02 ~ 25-08-21 | 단국대학교 소프트웨어학과 | 졸업 |
 | 20-12-07 ~ 22-09-06 | 공군 정보보호병 821기 | 병장 만기전역 |
 | 23-09-01 ~ 23-12-18 | 티맥스티베로 캠퍼스SW아카데미사업(TABA) 4기 | 우수교육생 선발 |
 | 24-01-02 ~ 24-02-26 | LG AImers 4기 | 수료 |
 
 </div>
 
-<!--
-<br>
+<div align="right">
 
-![digitpic's GitHub stats](./profile-3d-contrib/profile-night-rainbow.svg)
--->
+## 📳 Contact
+
+</div>
+
+<div align="center">
+  
+[![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
+</div>
