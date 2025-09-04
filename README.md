@@ -12,8 +12,7 @@
 |:-:|:-:|:-:|:-:|
 |23-11 ~ 23-12|[CampShare](https://github.com/TABA4-9)|BE|완료|
 |24-03 ~ 24-05|[Koreigner](https://github.com/dku-capstone-design)|BE|완료|
-|25-01 ~ 현재|[만다몽](https://github.com/mandamong)|BE|진행|
-|25-02 ~ 25-05|[MES](https://github.com/kurtfarm/wayfarer-task-request)|BE|완료|
+|25-01 ~ 현재|[Mandamong](https://github.com/mandamong)|BE|진행|
 
 </div>
 
