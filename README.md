@@ -45,6 +45,20 @@
 </div>
 
 <div align="right">
+  
+## 💻 Contributions
+
+</div>
+
+<div align="center">
+
+| Project | PR | Commit Hash | Details |
+|:-:|:-:|:-:|:-:|
+| [spring-ai](https://github.com/spring-projects/spring-ai) | [3773](https://github.com/spring-projects/spring-ai/pull/3773) | [3fee79a](https://github.com/spring-projects/spring-ai/commit/3fee79a77b13a2cbd89369431ae48028454fca9c) | Improved maintainability of VectorStoreChatMemoryAdvisor code |
+
+</div>
+
+<div align="left">
 
 ## 📳 Contact
 
