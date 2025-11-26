@@ -41,7 +41,7 @@
 | 20-12 ~ 22-09 | [공군 정보보호병](https://www.mma.go.kr/contents.do?mc=mma0000465)| 821기 만기전역 |
 | 23-09 ~ 23-12 | [티맥스티베로 캠퍼스SW아카데미사업 (TABA)](http://taba.kr/)| 4기 수료, 우수교육생 |
 | 24-01 ~ 24-02 | [LG AImers](https://lgaimers.ai/)| 4기 수료 |
-| 25-09 ~ 26-01 | [Tricocube](https://github.com/TriCo-Cube) | Software Engineer | 
+| 25-09 ~ 26-05 | [Tricocube](https://github.com/TriCo-Cube) | Software Engineer | 
 
 </div>
 
