@@ -42,7 +42,7 @@
 | 23-09 ~ 23-12 | [티맥스티베로 캠퍼스SW아카데미사업 (TABA)](http://taba.kr/)| 4기 수료, 우수교육생 |
 | 24-01 ~ 24-02 | [LG AImers](https://lgaimers.ai/)| 4기 수료 |
 | 25-09 ~ 26-01 | [tricocube](https://github.com/TriCo-Cube) | Software Engineer | 
-| 26-01 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [powervoice](https://kpvoice.com/index.html) | Software Engineer | 
+| 26-02 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [powervoice](https://kpvoice.com/index.html) | Software Engineer | 
 
 </div>
 
