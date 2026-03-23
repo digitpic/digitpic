@@ -1,36 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=🐶🐾🦴&fontAlign=70)
 
-<div align="left">
-  
-## 📚 Projects
-
-</div>
-
-<div align="center">
-  
-|Period|Name|Role|Status|
-|:-:|:-:|:-:|:-:|
-|23-11 ~ 23-12|[campshare](https://github.com/TABA4-9)|BE|완료|
-|24-03 ~ 24-05|[koreigner](https://github.com/dku-capstone-design)|BE|완료|
-|25-01 ~ 25-08|[mandamong](https://github.com/mandamong)|BE|완료|
-
-</div>
-
-<div align="right">
-
-## 🔨 Tech Stack
-</div>
-
 <div align="center">
   <img src="https://img.shields.io/badge/Kotlin-%23222222?style=for-the-badge&logo=kotlin&logoColor=7F52FF">
   <img src="https://img.shields.io/badge/Spring Boot-%23222222?style=for-the-badge&logo=springboot&logoColor=6DB33F">
   <img src="https://img.shields.io/badge/Kubernetes-%23222222?style=for-the-badge&logo=kubernetes&logoColor=326CE5">
-</div>
-
-<div align="left">
-  
-## 💻 Experiences
-
 </div>
 
 <div align="center">
@@ -46,27 +19,10 @@
 
 </div>
 
-<div align="right">
-  
-## ⌨️ Contributions
-
-</div>
-
 <div align="center">
 
 | Project | PR | Commit Hash | Details |
 |:-:|:-:|:-:|:-:|
 | [spring-ai](https://github.com/spring-projects/spring-ai) | [3773](https://github.com/spring-projects/spring-ai/pull/3773) | [3fee79a](https://github.com/spring-projects/spring-ai/commit/3fee79a77b13a2cbd89369431ae48028454fca9c) | Improved maintainability of VectorStoreChatMemoryAdvisor code |
 
-</div>
-
-<div align="left">
-
-## 📳 Contact
-
-</div>
-
-<div align="center">
-  
-[![Gmail](https://img.shields.io/badge/Gmail-%23222222?style=for-the-badge&logo=Gmail&logoColor=EA4335)](mailto:jkw5033@gmail.com)
 </div>
