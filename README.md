@@ -16,6 +16,7 @@
 | 24-01 ~ 24-02 | [LG AImers](https://lgaimers.ai/)| 4기 수료 |
 | 25-09 ~ 26-01 | [@tricocube](https://github.com/TriCo-Cube) | Software Engineer | 
 | 26-02 ~ 26-03 | [@lookpin](https://github.com/lookpin) | Backend Developer | 
+| 26-04 ~ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | [@powervoice](https://github.com/PV-PowerVoice) | Software Engineer | 
 
 </div>
 
